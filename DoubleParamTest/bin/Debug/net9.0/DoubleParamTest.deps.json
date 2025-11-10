@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DoubleParamTest/1.0.0": {
+        "runtime": {
+          "DoubleParamTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DoubleParamTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

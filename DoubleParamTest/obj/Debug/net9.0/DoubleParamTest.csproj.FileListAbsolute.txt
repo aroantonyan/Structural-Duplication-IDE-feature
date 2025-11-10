@@ -1,0 +1,14 @@
+/Users/test/Desktop/DoubleParam/DoubleParamTest/bin/Debug/net9.0/DoubleParamTest
+/Users/test/Desktop/DoubleParam/DoubleParamTest/bin/Debug/net9.0/DoubleParamTest.deps.json
+/Users/test/Desktop/DoubleParam/DoubleParamTest/bin/Debug/net9.0/DoubleParamTest.runtimeconfig.json
+/Users/test/Desktop/DoubleParam/DoubleParamTest/bin/Debug/net9.0/DoubleParamTest.dll
+/Users/test/Desktop/DoubleParam/DoubleParamTest/bin/Debug/net9.0/DoubleParamTest.pdb
+/Users/test/Desktop/DoubleParam/DoubleParamTest/obj/Debug/net9.0/DoubleParamTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/test/Desktop/DoubleParam/DoubleParamTest/obj/Debug/net9.0/DoubleParamTest.AssemblyInfoInputs.cache
+/Users/test/Desktop/DoubleParam/DoubleParamTest/obj/Debug/net9.0/DoubleParamTest.AssemblyInfo.cs
+/Users/test/Desktop/DoubleParam/DoubleParamTest/obj/Debug/net9.0/DoubleParamTest.csproj.CoreCompileInputs.cache
+/Users/test/Desktop/DoubleParam/DoubleParamTest/obj/Debug/net9.0/DoubleParamTest.dll
+/Users/test/Desktop/DoubleParam/DoubleParamTest/obj/Debug/net9.0/refint/DoubleParamTest.dll
+/Users/test/Desktop/DoubleParam/DoubleParamTest/obj/Debug/net9.0/DoubleParamTest.pdb
+/Users/test/Desktop/DoubleParam/DoubleParamTest/obj/Debug/net9.0/DoubleParamTest.genruntimeconfig.cache
+/Users/test/Desktop/DoubleParam/DoubleParamTest/obj/Debug/net9.0/ref/DoubleParamTest.dll
