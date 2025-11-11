@@ -12,5 +12,5 @@ Naming/ – DefaultParameterNameSuggester
 
 Usage
 dotnet run -- <INPUT.cs> [--inplace | --out <OUTPUT.cs>]
-# Test
+Test
 dotnet run -- ../DoubleParamTest/Test.cs
